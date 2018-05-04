@@ -1,6 +1,6 @@
 # CodeCraft2018
 
-2018华为软件精英挑战赛
+[2018华为软件精英挑战赛总结](https://www.jianshu.com/p/b9c043bdefd5)
 
 >题目解析
 
